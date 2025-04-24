@@ -10,6 +10,19 @@ I am **Sunil Gavali**, an Electronics Engineer with 30 years+ hands-on experienc
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+|  No. | Interest Area |
+|-----:|---------------|
+|     1|  VFD          |
+|     2|  Inverter     |
+|     3|  PoE          |
+|     4|  Water Meter  |
+
+
+</details>
+
 <!--
 **GavSun/GavSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
