@@ -4,6 +4,12 @@ I am **Sunil Gavali**, an Electronics Engineer with 30 years+ hands-on experienc
 - 🌱 I’m currently improving my skills on the utilising C & C++ for embedded systems applications.
 - 🌱 I’m also learning to use Git & Github for SW version control and deployment.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 <!--
 **GavSun/GavSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
