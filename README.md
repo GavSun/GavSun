@@ -1,5 +1,5 @@
 ### 🙏 Namaste, Hi, Hello,
-I am **Sunil Gavali**. I am Electronics Engineer with 30 years+ hands-on experience on electronic HW & FW design and development. 
+I am **Sunil Gavali**. I am **Electronics Engineer** with 30 years+ hands-on experience on electronic HW & FW design and development. 
 - 🔭 I’m currently working on HW & FW required for the boards using RP2350 and STM32 micocontrollers. 
 - 🌱 I’m currently improving my skills on the utilising C & C++ for embedded systems applications.
 - 🌱 I’m also learning to use Git & Github for SW version control and deployment.
