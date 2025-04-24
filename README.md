@@ -6,8 +6,7 @@ I am currently:
 - Improving my skills on the using the C & C++ languages for embedded systems applications.
 - Learning to use Git & Github for SW version control and deployment.
 
-<details>
-<summary>Currently my technical interest are in following topics:</summary>
+Currently my technical interest are in following topics:
 
 |  No. | Interest Area |
 |-----:|---------------|
@@ -15,7 +14,19 @@ I am currently:
 |     2|  Solar Inverter 1PH   |
 |     3|  Power over Ethernet (PoE)          |
 |     4|  Water Level Measuremnt  |
-</details>
+
+### For embedded FW developement I am familiar with:
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" alt="c" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="cmake" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  
+</p>
+
+
 
 ---
 > "Do what you can, with what you have, where you are." - Theodore Roosevelt.\
