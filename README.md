@@ -6,7 +6,7 @@ I am currently:
 - Improving my skills on the using the C & C++ languages for embedded systems applications.
 - Learning to use Git & Github for SW version control and deployment.
 
-Currently my technical interest are in following topics:
+Currently my technical interests are in following topics:
 
 |  No. | Interest Area |
 |-----:|---------------|
