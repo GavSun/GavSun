@@ -1,8 +1,8 @@
 ### 🙏 Namaste, I am Sunil Gavali, 
 I am **Electronics Engineer** and a tech explorer. I love to engage with new electronic HW kits / gadgets and tweak it's FW to bringout few challenging features.
 
-I am currently:
-- Working on HW & FW required for the boards using RP2350 & STM32 micocontrollers.
+🔭 I’m currently working on ...
+-  HW & FW required for the boards using RP2350 & STM32 micocontrollers.
 - Improving my skills on the using the C & C++ languages for embedded systems applications.
 - Learning to use Git & Github for SW version control and deployment.
 
